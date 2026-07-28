@@ -1,52 +1,48 @@
 <div align="center">
 
-# 👨‍💻 Lucas Moreira
+# 👋 Olá, eu sou Lucas!
 
-### 🚀 Software Engineering Student | 💻 Back-end Developer | 🎮 Gamer
+### 💻 Estudante de Engenharia de Software | 🚀 Desenvolvedor em formação | 🎮 Gamer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Python+%7C+Java+%7C+Git+%7C+GitHub" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+Tecnologia;Python+%7C+Java+%7C+Git;Sempre+aprendendo+algo+novo!" />
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Software
-
-💻 Sempre buscando aprender novas tecnologias
-
-🎮 Apaixonado por videogames
-
-🌌 Fascinado por astronomia
-
-📚 Atualmente estudando Python, Java e Estruturas de Dados
+- 🎓 Estudante de Engenharia de Software
+- 💻 Apaixonado por programação e tecnologia
+- 🎮 Gamer nas horas vagas
+- 🌌 Fascinado por astronomia
+- 🚀 Buscando evoluir todos os dias como desenvolvedor
 
 ---
 
-# 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql,linux" />
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=LucasSFC&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=LucasSFC&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasSFC&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasSFC&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+## 🔥 Sequência de contribuições
 
 <div align="center">
 
@@ -56,7 +52,7 @@
 
 ---
 
-# 📈 Gráfico de Contribuições
+## 📈 Gráfico de atividade
 
 <div align="center">
 
@@ -66,47 +62,43 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LucasSFC&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LucasSFC&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 🌎 Redes Sociais
+## 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LucasSFC/LucasSFC/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 🌐 Redes
 
 <div align="center">
 
 <a href="https://github.com/LucasSFC">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Visitantes
+## 👀 Visitantes
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LucasSFC&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💡 Frase
-
-<div align="center">
-
-> "A melhor forma de prever o futuro é construí-lo."
+<img src="https://komarev.com/ghpvc/?username=LucasSFC&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -114,6 +106,8 @@
 
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado por visitar meu perfil!
+
+*"A melhor maneira de prever o futuro é criá-lo."*
 
 </div>
