@@ -102,15 +102,15 @@
 <img src="https://img.shields.io/badge/GitHub-740001?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-c-1274543b2/">
 <img src="https://img.shields.io/badge/LinkedIn-740001?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/https://www.instagram.com/lucas_cestaro10/">
 <img src="https://img.shields.io/badge/Instagram-740001?style=for-the-badge&logo=instagram&logoColor=FFD700"/>
 </a>
 
-<a href="https://discord.com/users/SEU_ID_DISCORD">
+<a href="https://discord.com/users/https://discord.comthedarkhorse08">
 <img src="https://img.shields.io/badge/Discord-740001?style=for-the-badge&logo=discord&logoColor=FFD700"/>
 </a>
 
