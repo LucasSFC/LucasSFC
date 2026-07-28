@@ -1,45 +1,34 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Moreira
+# ⚡ Olá, eu sou Lucas Moreira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+constante+evolução;Apaixonado+por+Tecnologia+e+Games;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+### 💻 Estudante de Engenharia de Software • 🚀 Desenvolvedor em formação • 🎮 Gamer
 
-### 🚀 Software Engineering Student • 💻 Developer • 🎮 Gamer
+> *"Happiness can be found even in the darkest of times, if one only remembers to turn on the light."* ✨
 
-<img src="https://komarev.com/ghpvc/?username=LucasSFC&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=LucasSFC&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## ⚡ Sobre mim
 
-```python
-class Lucas:
+🧙 Estudante de Engenharia de Software
 
-    nome = "Lucas Moreira"
+💻 Apaixonado por tecnologia e desenvolvimento
 
-    faculdade = "Engenharia de Software"
+🚀 Sempre buscando aprender algo novo
 
-    linguagens = [
-        "Python",
-        "Java"
-    ]
+🌌 Fascinado por astronomia
 
-    interesses = [
-        "Back-end",
-        "Tecnologia",
-        "Automação",
-        "Astronomia",
-        "Games"
-    ]
+🎮 Gamer nas horas vagas
 
-    objetivo = "Aprender, criar e evoluir um projeto de cada vez."
-```
+📚 Fã do universo de Harry Potter
 
 ---
 
-# 🚀 Tecnologias
+## 🪄 Tecnologias
 
 <div align="center">
 
@@ -49,7 +38,7 @@ class Lucas:
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -61,7 +50,7 @@ class Lucas:
 
 ---
 
-# 🔥 Streak
+## 🔥 Streak
 
 <div align="center">
 
@@ -71,7 +60,7 @@ class Lucas:
 
 ---
 
-# 📈 Atividade
+## 📈 Atividade
 
 <div align="center">
 
@@ -81,93 +70,58 @@ class Lucas:
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Missão Atual
 
-- 🎓 Evoluir na Engenharia de Software
-- 🐍 Dominar Python
-- ☕ Aprender Java profundamente
-- 🚀 Criar projetos para meu portfólio
-- 🌎 Contribuir com projetos Open Source
-- 💼 Conquistar minha primeira oportunidade como desenvolvedor
+🧪 Aprimorar Python
 
----
+☕ Evoluir em Java
 
-# 🎮 Interesses
+⚡ Construir projetos para meu portfólio
 
-🖥️ Programação
+🌍 Contribuir para Open Source
 
-🎮 Games
-
-🌌 Astronomia
-
-🎬 Filmes e Séries
-
-📚 Aprendizado Contínuo
+💼 Conquistar minha primeira oportunidade como desenvolvedor
 
 ---
 
-# 🌐 Conecte-se comigo
+## 🦉 Curiosidades
+
+⚡ Casa de Hogwarts: *(adicione a sua aqui)*
+
+🪄 Feitiço favorito: **Lumos**
+
+📖 Livros, filmes, astronomia e tecnologia fazem parte do meu mundo.
+
+---
+
+## 🌐 Contato
 
 <div align="center">
 
-<a href="https://github.com/LucasSFC" target="_blank">
+<a href="https://github.com/LucasSFC">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM/" target="_blank">
+<a href="https://www.instagram.com/SEU_INSTAGRAM/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/SEU_CONVITE" target="_blank">
+<a href="https://discord.com/users/SEU_ID_DISCORD">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
 
-> **Se você não possui um servidor no Discord**, pode substituir o botão acima pelo seu usuário:
->
-> ```md
-> ![Discord](https://img.shields.io/badge/Discord-seu_usuario-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-> ```
->
-> Exemplo:
->
-> ```md
-> ![Discord](https://img.shields.io/badge/Discord-lucassfc-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-> ```
-
----
-
-# 💻 Atualmente estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,git,mysql" />
-
-</div>
-
----
-
-# 💭 Frase
-
-<div align="center">
-
-> *"A tecnologia transforma ideias em realidade. Cada linha de código é um passo nessa jornada."*
-
-</div>
-
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## ⚡ "Mischief Managed."
 
-Se gostou de algum projeto, deixe uma ⭐. Ela incentiva a continuar criando!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+⭐ Obrigado pela visita!
 
 </div>
