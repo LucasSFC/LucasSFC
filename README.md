@@ -1,118 +1,128 @@
 <div align="center">
 
-# ⚡ Olá, eu sou Lucas Moreira
+# ⚡ Lucas Moreira
 
-### 💻 Estudante de Engenharia de Software • 🚀 Desenvolvedor em formação • 🎮 Gamer
+### 💻 Software Engineering Student • 🚀 Developer • 🎮 Gamer
 
 > *"Happiness can be found even in the darkest of times, if one only remembers to turn on the light."* ✨
 
-<img src="https://komarev.com/ghpvc/?username=LucasSFC&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=LucasSFC&style=for-the-badge&color=740001"/>
 
 </div>
 
 ---
 
-## ⚡ Sobre mim
+# 🦁 Sobre mim
 
-🧙 Estudante de Engenharia de Software
+🎓 Estudante de Engenharia de Software
 
-💻 Apaixonado por tecnologia e desenvolvimento
+💻 Apaixonado por desenvolvimento de software
 
-🚀 Sempre buscando aprender algo novo
+🐍 Atualmente estudando Python e Java
 
 🌌 Fascinado por astronomia
 
 🎮 Gamer nas horas vagas
 
-📚 Fã do universo de Harry Potter
+⚡ Sempre buscando aprender algo novo e construir projetos interessantes.
 
 ---
 
-## 🪄 Tecnologias
+# 🪄 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql,linux,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css,mysql,linux" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=LucasSFC&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=LucasSFC&theme=gruvbox&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasSFC&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasSFC&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Streak
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LucasSFC&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LucasSFC&theme=gruvbox&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Atividade
+# 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSFC&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSFC&theme=gruvbox"/>
 
 </div>
 
 ---
 
-## 🎯 Missão Atual
+# 🎯 Objetivos
 
-🧪 Aprimorar Python
+🧙 Criar projetos cada vez maiores.
 
-☕ Evoluir em Java
+💼 Conseguir minha primeira oportunidade como desenvolvedor.
 
-⚡ Construir projetos para meu portfólio
+🚀 Aprender novas tecnologias continuamente.
 
-🌍 Contribuir para Open Source
+🌎 Contribuir para projetos Open Source.
 
-💼 Conquistar minha primeira oportunidade como desenvolvedor
-
----
-
-## 🦉 Curiosidades
-
-⚡ Casa de Hogwarts: *(adicione a sua aqui)*
-
-🪄 Feitiço favorito: **Lumos**
-
-📖 Livros, filmes, astronomia e tecnologia fazem parte do meu mundo.
+📚 Evoluir um commit por vez.
 
 ---
 
-## 🌐 Contato
+# ⚙️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+
+</div>
+
+---
+
+# 🌐 Contato
 
 <div align="center">
 
 <a href="https://github.com/LucasSFC">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-740001?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-740001?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
 </a>
 
 <a href="https://www.instagram.com/SEU_INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-740001?style=for-the-badge&logo=instagram&logoColor=FFD700"/>
 </a>
 
 <a href="https://discord.com/users/SEU_ID_DISCORD">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-740001?style=for-the-badge&logo=discord&logoColor=FFD700"/>
 </a>
+
+</div>
+
+---
+
+# 📖 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git" />
 
 </div>
 
@@ -122,6 +132,8 @@
 
 ## ⚡ "Mischief Managed."
 
-⭐ Obrigado pela visita!
+### ⭐ Obrigado por visitar meu perfil!
+
+🦁 *Coragem, determinação e aprendizado constante.*
 
 </div>
