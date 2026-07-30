@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D001A&fontColor=A855F7&text=Lucas%20Moreira&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20IT%20Infrastructure%20%7C%20Back-end%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D001A&fontColor=A855F7&text=Lucas%20Cestaro%20Moreira&fontSize=45&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Developer&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Jovem+Aprendiz+de+TI+na+Prat%27s;Infraestrutura+de+TI+%F0%9F%96%A5%EF%B8%8F;Aprendendo+Java+%E2%98%95;Aprendendo+Linux+%F0%9F%90%A7;Aprendendo+Git+%F0%9F%8C%BF;Python+%7C+Docker+%7C+MySQL;Evoluindo+um+commit+por+vez+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Estudante+no+IFPR+Paranava%C3%AD+%F0%9F%8E%93;Jovem+Aprendiz+de+TI+na+Prat%27s;Python+%7C+MySQL+%F0%9F%90%8D;Estudando+IA+e+Docker+%F0%9F%A4%96;Evoluindo+um+commit+por+vez+%F0%9F%9A%80"/>
 
 <br>
 
@@ -14,29 +14,40 @@
 
 ---
 
-# 🦁 Sobre mim
+# 🚀 Sobre mim
 
-Olá! Eu sou **Lucas Moreira**, estudante de **Engenharia de Software** apaixonado por tecnologia, desenvolvimento e infraestrutura.
+Olá! Eu sou **Lucas Cestaro Moreira**, estudante no **IFPR Paranavaí** e apaixonado por tecnologia, desenvolvimento back-end e infraestrutura.
 
-Atualmente estou construindo minha carreira na área de TI, buscando evoluir como desenvolvedor e profissional de tecnologia.
+Atualmente estou construindo minha carreira na área de TI, unindo conhecimento acadêmico aos desafios do ambiente corporativo.
 
-💻 Apaixonado por desenvolvimento de software.
+🎓 Estudante de Engenharia de Software no **IFPR Paranavaí**.
 
-👨‍💼 Jovem Aprendiz na área de Infraestrutura de TI.
+👨‍💼 Jovem Aprendiz na área de Infraestrutura de TI na **Prat's**.
 
-☕ Atualmente estudando Java.
+🐍 Desenvolvedor com forte foco em **Python**.
 
-🐧 Aprendendo Linux.
+🗄️ Aprimorando conhecimentos em bancos de dados com **MySQL**.
 
-🌿 Aprendendo Git e boas práticas de versionamento.
+🤖 Atualmente mergulhando no mundo das **Inteligências Artificiais (IAs)**.
 
-🐍 Conhecimentos em Python.
+🐳 Explorando **Docker** para criar e gerenciar containers.
 
-🐳 Explorando Docker e containers.
+---
 
-🗄️ Estudando bancos de dados com MySQL.
 
-🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos.
+### 🔥 GitHub Streak & Trophies
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSFC&theme=tokyonight"/>
+</div>
+
+<br>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSFC&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true"/>
+</div>
 
 ---
 
@@ -44,27 +55,19 @@ Atualmente estou construindo minha carreira na área de TI, buscando evoluir com
 
 ## 🏢 Jovem Aprendiz | TI - Infraestrutura | Prat's
 
-Atualmente faço parte do time de **Tecnologia da Informação da Prat's**, atuando como **Jovem Aprendiz na área de Infraestrutura**.
+Atuo no time de **Tecnologia da Informação da Prat's**, dando suporte ao ambiente corporativo. Minhas vivências incluem:
+- 🖥️ Suporte técnico aos usuários e resolução de chamados.
+- 🔧 Manutenção e configuração de computadores e hardware.
+- 🌐 Auxílio na infraestrutura de redes.
+- 📚 Aplicação prática de tudo que venho aprendendo nos meus estudos.
 
-Durante minha experiência profissional venho desenvolvendo conhecimentos em:
+---
 
-🖥️ Suporte técnico aos usuários.
-
-🔧 Manutenção e configuração de computadores.
-
-🌐 Infraestrutura de redes.
-
-⚙️ Organização e suporte ao ambiente corporativo.
-
-💻 Atendimento de chamados de TI.
-
-📚 Aplicação prática dos conhecimentos adquiridos na faculdade.
-
-# 🛠️ Tecnologias
+# 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,docker,mysql,linux,git,github,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,docker,linux,git,github,vscode,html,css"/>
 
 </div>
 
@@ -74,135 +77,37 @@ Durante minha experiência profissional venho desenvolvendo conhecimentos em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,linux,git"/>
+<img src="https://skillicons.dev/icons?i=python,docker,mysql"/>
 
 </div>
 
 <br>
 
-### ☕ Java
+### 🤖 Inteligência Artificial
+- Fundamentos de IAs e Machine Learning.
+- Integração de modelos inteligentes em desenvolvimento Back-end.
 
-Atualmente estudando:
+### 🐳 Docker
+- Criação e gerenciamento de containers.
+- Imagens e Dockerfile para padronização de ambientes.
 
-- Fundamentos da linguagem Java.
-- Programação Orientada a Objetos.
-- Estrutura de projetos.
-- Desenvolvimento Back-end.
-- Boas práticas de programação.
+### 🐍 Python & 🗄️ MySQL
+- Aprofundamento no Back-end com Python.
+- Modelagem e consultas avançadas em bancos relacionais com MySQL.
 
----
-
-### 🐧 Linux
-
-Aprendendo:
-
-- Comandos Linux.
-- Organização de arquivos.
-- Ambiente de desenvolvimento.
-- Conceitos de administração de sistemas.
-- Utilização do terminal.
-
----
-
-### 🌿 Git
-
-Estudando:
-
-- Controle de versão.
-- Commits.
-- Branches.
-- Organização de projetos.
-- GitHub.
-
----
-
-# 💼 Conhecimentos
-
-## 👨‍💻 Programação
-
-- 🐍 Python
-- ☕ Java (aprendendo)
-
-## 🗄️ Banco de Dados
-
-- MySQL
-
-## 🐳 Containers
-
-- Docker
-
-## 🖥️ Infraestrutura
-
-- Suporte técnico.
-- Hardware.
-- Redes de computadores.
-- Manutenção de computadores.
-- Ambiente corporativo de TI.
-
-## 🌐 Desenvolvimento Web
-
-- HTML5.
-- CSS3.
-
-## 🌿 Versionamento
-
-- Git.
-- GitHub.
-
----
-
-# ⚙️ Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux,mysql"/>
-
-</div>
-
----
-
-# 🚀 Ambiente atual
-
-💻 Editor: Visual Studio Code
-
-🐍 Linguagem com conhecimento: Python
-
-☕ Linguagem em aprendizado: Java
-
-🗄️ Banco de dados: MySQL
-
-🐳 Containers: Docker
-
-🌿 Versionamento: Git e GitHub
-
-🐧 Sistema estudado: Linux
-
----
-
-Essa experiência tem me ajudado a unir conhecimento acadêmico com desafios reais do ambiente profissional.
-
----
 ---
 
 # 🎯 Objetivos
 
-🚀 Evoluir cada vez mais como profissional de tecnologia.
+🚀 Evoluir cada vez mais como profissional de tecnologia e desenvolvedor Back-end.
 
-☕ Aprimorar meus conhecimentos em Java e desenvolvimento Back-end.
+🧠 Integrar soluções de Inteligência Artificial nos meus projetos.
 
-🐧 Aprofundar meus estudos em Linux.
+🐳 Dominar o ecossistema Docker para facilitar o deploy.
 
-🌿 Dominar Git e boas práticas de versionamento.
+🐧 Aprofundar meus estudos em Linux e Infraestrutura.
 
-🐳 Aprender Docker na prática.
-
-🌱 Estudar frameworks e novas tecnologias.
-
-💼 Conquistar uma oportunidade como Desenvolvedor.
-
-🌎 Contribuir para projetos Open Source.
-
-📚 Continuar aprendendo e evoluindo todos os dias.
+💼 Conquistar uma oportunidade como Desenvolvedor Júnior.
 
 ---
 
@@ -228,27 +133,6 @@ Essa experiência tem me ajudado a unir conhecimento acadêmico com desafios rea
 
 ---
 
-# 💜 Foco atual
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,linux,git,docker,mysql,python"/>
-
-<br><br>
-
-Atualmente focado em evoluir meus conhecimentos em:
-
-☕ Java  
-🐧 Linux  
-🌿 Git  
-🐳 Docker  
-🗄️ MySQL  
-🐍 Python  
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D001A"/>
@@ -264,6 +148,6 @@ Atualmente focado em evoluir meus conhecimentos em:
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Java+%E2%98%95;Linux+%F0%9F%90%A7;Git+%F0%9F%8C%BF;Docker+%F0%9F%90%B3;Back-end+Development+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Python+%F0%9F%90%8D;MySQL+%F0%9F%90%AC;Docker+%F0%9F%90%B3;IA+%F0%9F%A4%96;Back-end+Development+%F0%9F%9A%80"/>
 
 </div>
