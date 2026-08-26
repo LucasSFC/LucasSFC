@@ -35,13 +35,17 @@ Atualmente estou construindo minha carreira na área de TI, unindo conhecimento 
 ---
 
 
-### 🔥 GitHub Streak & Trophies
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSFC&theme=tokyonight"/>
-</div>
 
-<br>
+<img
+  height="180em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSFC&background=0D001A&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A855F7&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
 
 ### 📈 Contribution Graph
 
