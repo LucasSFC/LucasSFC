@@ -21,7 +21,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           options: >-
-            theme=tokyo-night&
+            theme=dracula&
             bg_color=0D001A&
             color=A855F7&
             line=A855F7&
