@@ -46,7 +46,13 @@ Atualmente estou construindo minha carreira na área de TI, unindo conhecimento 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSFC&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true"/>
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/LucasSFC/LucasSFC/output/activity-graph.svg"
+  alt="Lucas Cestaro Moreira - Contribution Graph"
+/>
+
 </div>
 
 ---
