@@ -14,14 +14,14 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v5
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: >-
-            theme=tokyo-night
+            theme=tokyo-night&
             bg_color=0D001A&
             color=A855F7&
             line=A855F7&
